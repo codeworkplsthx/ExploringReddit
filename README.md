@@ -1,1 +1,3 @@
 # ExploringReddit
+
+Reddit is a fertile source of collective thoughts. It is also a safe platform to ask questions to millions of other people. r/AskReddit is among the most popular pages on Reddit, and its purpose is to enable people to post questions for millions of other people to view and answer. Much can be learned about a person's thoughts by examining the questions he or she asks. Much can be learned about a community's thoughts by the most popular questions it asks. The primary goal of this project is to find and analyze patterns in the questions posted on r/AskReddit to ascertain common trends in the collective thoughts of the community. The secondary goal is to gain experience with data mining and data analysis techniques. The project is ongoing. 
